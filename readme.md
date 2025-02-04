@@ -34,4 +34,4 @@ Guardar la lista en el almacenamiento local del navegador.
 
 <h2>Autor</h2>
 
-Proyecto desarrollado para práctica en JavaScript.
+Proyecto desarrollado para práctica en JavaScript por Huamani Silvera Kevin.
